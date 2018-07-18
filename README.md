@@ -1,2 +1,2 @@
 # Hangman
-Practice program #5: Hangman
+Practice project #5: Text based word guesser game
